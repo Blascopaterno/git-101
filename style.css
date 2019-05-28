@@ -1,0 +1,15 @@
+body {margin: 0;
+font-family: Arial Rounded MT;
+}
+
+#logo {
+	height: 330px;
+	width: 230px;
+
+}
+#container {
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+}
